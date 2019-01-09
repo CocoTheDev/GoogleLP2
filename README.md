@@ -5,5 +5,5 @@
 THE HACKING PROJECT
 
 
-Landing page de Google - Sans thème
+Landing page de Google - Avec thème
 https://cocothepimp.github.io/GoogleLP1/
